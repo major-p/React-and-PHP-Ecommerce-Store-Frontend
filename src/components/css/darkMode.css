@@ -1,0 +1,69 @@
+body.dark-mode {
+  background-image: url(./../images/backgrounds/bg.png);
+
+  color: #999;
+}
+
+body.dark-mode .dark-toggle {
+  display: none;
+}
+
+body.dark-mode .mode-button {
+  color: #fff;
+}
+
+body.dark-mode .cart-button {
+  color: #fff;
+}
+
+body.dark-mode .nav-list {
+  color: #fff;
+}
+
+body.dark-mode .light-images {
+  display: none;
+}
+body.dark-mode .carousel-container {
+  background-image: linear-gradient(to bottom, #afadad, #fff);
+}
+body.dark-mode .header {
+  background: rgb(71, 67, 67);
+}
+body.dark-mode .header-list li {
+  color: #fff;
+}
+body.dark-mode .marquee {
+  background: rgb(71, 67, 67);
+  color: #fff;
+}
+body.dark-mode .cart-qty {
+  background: #afadad !important;
+}
+body.dark-mode .category-list li {
+  background: #afadad;
+}
+
+body.dark-mode .category-name {
+  color: black;
+}
+body.dark-mode .product-container {
+  background: none;
+}
+body.dark-mode .form-wrapper {
+  background: rgb(31, 30, 30);
+}
+body.dark-mode .product-main-div {
+  background: rgb(31, 30, 30);
+}
+body.dark-mode .product-container-single-wrap {
+  background: rgb(31, 30, 30);
+}
+body.dark-mode .main {
+  background: none;
+}
+body.dark-mode .bottom-button:hover {
+  color: #fff;
+}
+body.dark-mode .total-items {
+  background: rgb(31, 30, 30);
+}

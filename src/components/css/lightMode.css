@@ -1,0 +1,32 @@
+body.light-mode {
+  background: #efefef;
+  transition: background-color 0.3s ease;
+}
+
+body.light-mode .light-toggle {
+  display: none;
+}
+
+body.light-mode .mode-button {
+  color: black;
+}
+
+body.light-mode .cart-button {
+  color: black;
+}
+
+body.light-mode.nav-list {
+  color: black;
+}
+body.light-mode .dark-images {
+  display: none;
+}
+body.light-mode .carousel-container {
+  background-image: linear-gradient(to top, #afadad, #fff);
+}
+body.light-mode .header {
+  background: #afafaf;
+}
+body.light-mode .marquee {
+  background: #fff;
+}
